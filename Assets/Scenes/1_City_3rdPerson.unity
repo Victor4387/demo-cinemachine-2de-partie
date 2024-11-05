@@ -57530,13 +57530,13 @@ MonoBehaviour:
     width: 0.2
   m_Looped: 1
   m_Waypoints:
-  - position: {x: 0, y: 0, z: -5}
+  - position: {x: 0.47255135, y: 0, z: -15.970169}
     roll: 0
-  - position: {x: 0, y: 0, z: 5}
+  - position: {x: -16.917513, y: 0, z: 2.2144775}
     roll: 0
   - position: {x: 8.696236, y: 0, z: 13.572571}
     roll: 0
-  - position: {x: 13.048897, y: 0, z: -2.629837}
+  - position: {x: 23.729372, y: 0, z: -0.31504822}
     roll: 0
 --- !u!4 &1440471834
 Transform:
